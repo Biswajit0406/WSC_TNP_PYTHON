@@ -11,9 +11,12 @@ class Base:
     def click(self,locator):
         element = self.get_element(locator)
         element.click()
-    def send_keys(self,locator,value):
+    def send_keys(self, locator, value):
         element = self.get_element(locator)
-        element.send_keys(value)
+        if element:
+            element.send_keys(value)
+        else:
+            raise Exception(f"Element with locator {locator} not found. Cannot send keys.")
 
 
     def visibility(self,locator):
@@ -21,11 +24,10 @@ class Base:
         return element.is_displayed()
 
     def get_element(self, locator):
-        element = None
-        if locator.__contains__("_id"):
-            element = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.ID, locator)))
-        elif locator.__contains__("//"):
-            element = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, locator)))
-        return element
+        try:
+            return WebDriverWait(self.driver, 10).until(EC.presence_of_element_located(locator))
+        except:
+            print(f"Element with locator {locator} not found.")
+            return None
 
 

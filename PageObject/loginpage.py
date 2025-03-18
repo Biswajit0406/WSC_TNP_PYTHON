@@ -34,3 +34,8 @@ class LoginPage(Base):
         logo = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((self.LOGO)))
         return logo.is_displayed()
 
+    def login(self,username,password):
+        self.send_keys(LoginPage.USERNAME_FIELD, username)
+        self.send_keys(LoginPage.PASSWORD_FIELD, password)
+        self.click(LoginPage.LOGIN_BUTTON)
+
