@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c25cd79-2145-4bed-9deb-b2175df9a97d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Logger/wsc.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utility/CustomLogger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utility/Screenshot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Package/Test_loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Package/Test_loginpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Package/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Package/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utility/Excel_Data_Reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utility/Excel_data_Reader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
