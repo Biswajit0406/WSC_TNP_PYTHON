@@ -13,3 +13,8 @@
 2025-03-20 18:44:28,431 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_logo_visibility.png
 2025-03-20 18:44:33,440 - INFO - Test Completed. WebDriver closed.
 2025-03-20 18:44:38,654 - INFO - Test Completed. WebDriver closed.
+2025-03-21 09:18:29,594 - INFO - Test Completed. WebDriver closed.
+2025-03-21 09:18:34,814 - INFO - Test Completed. WebDriver closed.
+2025-03-21 09:36:31,025 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_logo_visibility.png
+2025-03-21 09:36:36,285 - INFO - Test Completed. WebDriver closed.
+2025-03-21 09:36:41,483 - INFO - Test Completed. WebDriver closed.

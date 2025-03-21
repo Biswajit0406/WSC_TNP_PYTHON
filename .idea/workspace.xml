@@ -5,55 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c25cd79-2145-4bed-9deb-b2175df9a97d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExtentReport/pytest.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logger/wsc.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/assets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Package/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Package/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utility/Screenshot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utility/Screenshot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0ba0da40-4d10-410f-a9aa-bcf040d1a008-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/12936c85-af8c-4956-9f01-898c61a5ef1a-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/12fcc237-5838-457d-bebf-4406de653ca6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/17eeb34c-8188-4e52-bc72-0c1061c47f95-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2003a61f-bc78-4b4c-a322-b6707f21e23c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/21e9b773-5025-4874-9439-b827bfb55021-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2e8a68a3-eb5f-441b-ab71-5418ce7d141e-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3cf2f590-6e82-4d9b-9f9a-2caf8e361b21-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/40547708-af76-4165-82d4-a1572a4801a4-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/430198e3-4e2c-49d0-994b-765b4c6a9e89-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/47a59c67-c945-4a98-9045-500aed58c581-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4f3774aa-cf36-4f11-86f3-82daa2ccd911-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/51734bfa-f4c3-4f73-8179-bc9f4ded03e8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/56d32287-676f-4f76-b331-0be531fac25d-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/57873c8e-d44c-4162-8e05-efb60518adb3-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5d4141e0-14b6-4013-a76a-4fb6dd07795c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6754bf49-756f-4e9b-bed8-9859f213b8ad-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6b91b05f-967e-43c1-82c1-b517afc6ee74-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6e6ea883-82a6-49b5-b9ce-7a223b60ec18-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7122d450-3e42-4d29-9151-973cc2dd47dd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7825241a-22a3-46f8-94a0-8335bdede2c2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7daae367-ee57-40e8-a952-10c95483452b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8138fbb3-e789-4036-9ce5-b3dfd1745266-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/82e2ecfa-f13d-48c0-918c-2132f89ceb41-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/93832eb7-1bea-4304-8480-a1c2adbe87f6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/974f4b0c-a5c2-4185-879e-c6bc9ef1e4d3-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9f22e3b2-2151-4ea2-a162-6b93e1ee189e-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9f9c90ec-9998-40b8-8993-8596c1aec22c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a2739f75-59da-4494-b227-52a14fe46439-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b235dcbc-061e-4278-8d3d-b0f5fd18554e-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b485110c-115b-4318-8694-07fd860f7c0c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b8a4e1c5-f1bc-44f6-a3ae-a82287d226bb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/bee2654f-3f00-40fd-aa82-614e55d3eeec-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c54e5973-1585-4dc3-a28a-4094ac9f4f08-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c614adaa-86dd-46be-ad31-2a44a3a69437-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c86c45de-b1b2-44c3-8bc3-d691694aa4b6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d51664e4-f755-42a2-8fe6-3536db8a7d7a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d9404598-a48a-4044-a4eb-70521859296c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e91f8895-ce34-493b-bbca-fe0fedc13f97-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ef8c657f-917b-4576-b7fd-2d9c07284aef-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f1e6af90-9e07-4e10-bfa6-5624db9c3a53-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f89a70d1-4f3c-4254-aa5a-60c5cb112b3a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logger/wsc.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logger/wsc.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,18 +41,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for Test_loginpage.TestLoginPage.TestLoginPage.test_logo_visibility.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for Test_loginpage.TestLoginPage.test_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for Test_loginpage.TestLoginPage.test_logo_visibility.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conf_test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/KIIT/PycharmProjects/pythonProject6&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for Test_loginpage.TestLoginPage.TestLoginPage.test_logo_visibility.executor": "Run",
+    "Python tests.Python tests for Test_loginpage.TestLoginPage.test_login.executor": "Run",
+    "Python tests.Python tests for Test_loginpage.TestLoginPage.test_logo_visibility.executor": "Run",
+    "Python.conf_test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/KIIT/PycharmProjects/pythonProject6",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\KIIT\PycharmProjects\pythonProject6" />
