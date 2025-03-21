@@ -18,3 +18,20 @@
 2025-03-21 09:36:31,025 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_logo_visibility.png
 2025-03-21 09:36:36,285 - INFO - Test Completed. WebDriver closed.
 2025-03-21 09:36:41,483 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:15:33,275 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:15:38,503 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:17:31,366 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:17:36,650 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:23:00,997 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:23:06,354 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:26:17,391 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_logo_visibility_1.png
+2025-03-21 10:26:22,741 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:26:28,140 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:27:24,975 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_logo_visibility_1.png
+2025-03-21 10:27:30,312 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:27:35,451 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:51:32,363 - INFO - Test Completed. WebDriver closed.
+2025-03-21 10:51:49,066 - INFO - Test Completed. WebDriver closed.
+2025-03-21 11:01:03,394 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_logo_visibility_1.png
+2025-03-21 11:01:08,610 - INFO - Test Completed. WebDriver closed.
+2025-03-21 11:01:13,889 - INFO - Test Completed. WebDriver closed.
