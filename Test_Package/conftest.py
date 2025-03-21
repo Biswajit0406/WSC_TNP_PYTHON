@@ -3,6 +3,7 @@ from selenium import webdriver
 import logging
 from Utility.CustomLogger import CustomLogger
 import os
+from selenium.webdriver.chrome.options import Options
 
 
 loginpage_url = "https://wscdemo.eduleadonline.com"
@@ -16,17 +17,24 @@ def browser(request):
 
 
 @pytest.fixture()
-def setup(browser,request):
+def setup(browser, request):
     global driver
+    options = Options()
+    options.add_argument("--headless")  # Run in background
+    options.add_argument("--disable-gpu")  # Improve performance on Windows
+
     if browser == "chrome":
-        logger.info("Initializing WebDriver...")
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome(options=options)
     elif browser == "firefox":
-        logger.info("Initializing WebDriver...")
-        driver = webdriver.Firefox()
+        from selenium.webdriver.firefox.options import Options as FirefoxOptions
+        options = FirefoxOptions()
+        options.add_argument("--headless")
+        driver = webdriver.Firefox(options=options)
     elif browser == "edge":
-        logger.info("Initializing WebDriver...")
-        driver = webdriver.Edge()
+        from selenium.webdriver.edge.options import Options as EdgeOptions
+        options = EdgeOptions()
+        options.add_argument("--headless")
+        driver = webdriver.Edge(options=options)
     else:
         raise ValueError("Unsupported browser")
 
@@ -37,7 +45,7 @@ def setup(browser,request):
     yield driver  # Yield instead of return to ensure cleanup
     # Capture screenshot on failure
     if request.node.rep_call.failed:
-        screenshot_dir = "screenshots"
+        screenshot_dir = "Screenshot"
         os.makedirs(screenshot_dir, exist_ok=True)  # Ensure directory exists
         screenshot_path = os.path.join(screenshot_dir, f"{request.node.name}.png")
         driver.save_screenshot(screenshot_path)
