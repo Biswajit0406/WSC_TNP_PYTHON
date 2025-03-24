@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c25cd79-2145-4bed-9deb-b2175df9a97d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/loginpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Package/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Package/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logger/wsc.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utility/CustomLogger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utility/CustomLogger.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,5 +129,16 @@
       <updated>1741754062511</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_Package/Test_loginpage.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
