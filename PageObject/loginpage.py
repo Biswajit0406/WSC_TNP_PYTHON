@@ -10,7 +10,7 @@ class LoginPage(Base):
 
 
     # Web Elements (Using Locators)
-    LOGO = (By.XPATH, "//section[@class='for-login']//div[@class='page-card-heads']")
+    LOGO = (By.XPATH, "//section[@class='for-login']//div[@class='page-card-head']")
     USERNAME_FIELD = (By.XPATH, "//input[@id='login_email']")
     PASSWORD_FIELD = (By.XPATH, "//input[@id='login_password']")
     LOGIN_BUTTON = (By.XPATH, "//button[normalize-space()='Login']")
