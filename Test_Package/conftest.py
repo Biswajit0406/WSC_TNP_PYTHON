@@ -73,7 +73,7 @@ def setup(browser, request):
         # Attach screenshot to pytest-html report
         if hasattr(request.config, "_html"):
             extra = getattr(request.config, "_html").extras
-            extra.append(extras.png(screenshot_path))
+            extra.append(extras.image(screenshot_path))
 
     driver.quit()
     logger.info("Test Completed. WebDriver closed.")
@@ -84,6 +84,32 @@ def pytest_runtest_makereport(item, call):
     outcome = yield
     report = outcome.get_result()
     setattr(item, "rep_" + report.when, report)
+
+    if report.when == "call" and report.failed:
+        screenshot_dir = "Screenshot"
+        os.makedirs(screenshot_dir, exist_ok=True)
+
+        driver = getattr(item.cls, "driver", None)
+        if driver:
+            test_name = item.name
+
+            # Increment screenshot count
+            if test_name in screenshot_counts:
+                screenshot_counts[test_name] += 1
+            else:
+                screenshot_counts[test_name] = 1
+
+            screenshot_name = f"{test_name}_{screenshot_counts[test_name]}.png"
+            screenshot_path = os.path.join(screenshot_dir, screenshot_name)
+            driver.save_screenshot(screenshot_path)
+            logger.error(f"Test Failed! Screenshot saved at: {screenshot_path}")
+
+            # Attach screenshot to HTML report
+            if hasattr(report, "extra"):
+                report.extra.append(extras.png(screenshot_path))
+            else:
+                report.extra = [extras.png(screenshot_path)]
+
 
 @pytest.hookimpl(tryfirst=True)
 def pytest_configure(config):

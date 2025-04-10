@@ -2,7 +2,8 @@ import time
 import pytest
 from PageObject.loginpage import LoginPage
 from Utility.Excel_data_Reader import utility
-import os
+from PageObject.homepage import homepage
+
 # from Utility.CustomLogger import CustomLogger
 
 
@@ -28,6 +29,8 @@ class TestLoginPage:
     def test_login(self,username,password):
         self.lp = LoginPage(self.driver)
         self.lp.login(username,password)
+        self.hp=homepage(self.driver)
+        self.hp.cry()
 
 
 
