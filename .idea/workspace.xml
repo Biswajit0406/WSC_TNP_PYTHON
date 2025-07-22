@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c25cd79-2145-4bed-9deb-b2175df9a97d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PageObject/homepage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Package/test_homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject6.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base/BASEpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/BASEpage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logger/wsc.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logger/wsc.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/chinmaya_khan.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot/test_logo_visibility_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Package/Screenshot/test_login[tester-tester@admin]_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Package/Screenshot/test_login[tester-tester@admin]_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Package/Screenshot/test_login[tester-tester@admin]_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Package/Screenshot/test_login[tester-tester@admin]_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Package/Screenshot/test_login[wsc-234]_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Package/Screenshot/test_login[wsc-234]_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Package/Screenshot/test_login[wsc-234]_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Package/Screenshot/test_login[wsc-234]_2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test_Package/Test_loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Package/Test_loginpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Package/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Package/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Package/test_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Package/test_homepage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +38,10 @@
     <setting file="file://$PROJECT_DIR$/PageObject/loginpage.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Test_Package/Test_loginpage.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Test_Package/conftest.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Test_Package/test_homepage.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Utility/Configreader.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Utility/CustomLogger.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Utility/Excel_data_Reader.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -53,11 +57,12 @@
     &quot;Python tests.Python tests for Test_loginpage.TestLoginPage.TestLoginPage.test_logo_visibility.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for Test_loginpage.TestLoginPage.test_login.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for Test_loginpage.TestLoginPage.test_logo_visibility.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homepage.Test_homepagePage.test_homepage.executor&quot;: &quot;Run&quot;,
     &quot;Python.conf_test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/KIIT/PycharmProjects/pythonProject6&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -65,7 +70,7 @@
       <recent name="C:\Users\KIIT\PycharmProjects\pythonProject6" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for Test_loginpage.TestLoginPage.test_login">
+  <component name="RunManager" selected="Python tests.Python tests for test_homepage.Test_homepagePage.test_homepage">
     <configuration name="Python tests for Test_loginpage.TestLoginPage.TestLoginPage.test_logo_visibility" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject6" />
       <option name="ENV_FILES" value="" />
@@ -111,8 +116,24 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_homepage.Test_homepagePage.test_homepage" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject6" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_homepage.Test_homepagePage.test_homepage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_homepage.Test_homepagePage.test_homepage" />
         <item itemvalue="Python tests.Python tests for Test_loginpage.TestLoginPage.test_login" />
         <item itemvalue="Python tests.Python tests for Test_loginpage.TestLoginPage.test_logo_visibility" />
         <item itemvalue="Python tests.Python tests for Test_loginpage.TestLoginPage.TestLoginPage.test_logo_visibility" />
@@ -136,5 +157,16 @@
       <updated>1741754062511</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_Package/Test_loginpage.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

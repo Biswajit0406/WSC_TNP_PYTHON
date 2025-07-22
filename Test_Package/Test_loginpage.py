@@ -29,8 +29,9 @@ class TestLoginPage:
     def test_login(self,username,password):
         self.lp = LoginPage(self.driver)
         self.lp.login(username,password)
-        self.hp=homepage(self.driver)
-        self.hp.cry()
+        # self.hp=homepage(self.driver)
+        # self.hp.cry()
+
 
 
 

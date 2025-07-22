@@ -58,3 +58,72 @@
 2025-04-10 12:10:25,849 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[tester-tester@admin]_2.png
 2025-04-10 12:10:39,764 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_1.png
 2025-04-10 12:10:40,282 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_2.png
+2025-04-10 15:09:37,507 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[tester-tester@admin]_1.png
+2025-04-10 15:09:37,978 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[tester-tester@admin]_2.png
+2025-04-10 15:09:41,887 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_1.png
+2025-04-10 15:09:42,433 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_2.png
+2025-04-11 09:55:12,408 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[tester-tester@admin]_1.png
+2025-04-11 09:55:14,246 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[tester-tester@admin]_2.png
+2025-04-11 09:55:18,020 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_1.png
+2025-04-11 09:55:18,544 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_2.png
+2025-04-22 09:38:38,606 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[tester-tester@admin]_1.png
+2025-04-22 09:38:40,519 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[tester-tester@admin]_2.png
+2025-04-22 09:38:44,222 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_1.png
+2025-04-22 09:38:44,794 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_2.png
+2025-04-22 09:53:15,201 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[tester-tester@admin]_1.png
+2025-04-22 09:53:15,490 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[tester-tester@admin]_2.png
+2025-04-22 09:53:19,158 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_1.png
+2025-04-22 09:53:19,680 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_2.png
+2025-04-22 10:14:49,330 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[tester-tester@admin]_1.png
+2025-04-22 10:14:49,629 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[tester-tester@admin]_2.png
+2025-04-22 10:14:53,797 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_1.png
+2025-04-22 10:14:54,337 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_login[wsc-234]_2.png
+2025-04-22 10:27:15,681 - INFO - Test Completed. WebDriver closed.
+2025-04-22 10:27:21,083 - INFO - Test Completed. WebDriver closed.
+2025-04-22 10:35:30,646 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_1.png
+2025-04-22 10:35:30,942 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_2.png
+2025-04-22 10:35:34,454 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_1.png
+2025-04-22 10:35:35,002 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_2.png
+2025-04-22 10:38:14,002 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_1.png
+2025-04-22 10:38:14,306 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_2.png
+2025-04-22 10:38:18,308 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_1.png
+2025-04-22 10:38:18,838 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_2.png
+2025-04-22 17:45:15,524 - INFO - Test Completed. WebDriver closed.
+2025-04-22 17:45:20,775 - INFO - Test Completed. WebDriver closed.
+2025-04-22 18:19:52,821 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_1.png
+2025-04-22 18:19:58,866 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_2.png
+2025-04-22 18:20:02,534 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_1.png
+2025-04-22 18:20:03,080 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_2.png
+2025-04-22 19:12:27,198 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_1.png
+2025-04-22 19:12:27,517 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_2.png
+2025-04-22 19:12:31,050 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_1.png
+2025-04-22 19:12:31,580 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_2.png
+2025-04-23 09:37:06,095 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_1.png
+2025-04-23 09:37:06,583 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_2.png
+2025-04-23 09:37:12,674 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_1.png
+2025-04-23 09:37:13,242 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_2.png
+2025-04-23 11:29:36,649 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_1.png
+2025-04-23 11:29:36,942 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_2.png
+2025-04-23 11:29:41,157 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_1.png
+2025-04-23 11:29:41,687 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_2.png
+2025-04-23 11:36:29,970 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_1.png
+2025-04-23 11:36:30,281 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_2.png
+2025-04-23 11:36:33,903 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_1.png
+2025-04-23 11:36:34,421 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_2.png
+2025-04-23 18:03:06,822 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_1.png
+2025-04-23 18:03:09,776 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_2.png
+2025-04-23 18:03:14,839 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_1.png
+2025-04-23 18:03:15,383 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_2.png
+2025-04-24 18:11:24,362 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_1.png
+2025-04-24 18:11:24,848 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[tester-tester@admin]_2.png
+2025-04-24 18:11:28,675 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_1.png
+2025-04-24 18:11:29,286 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage[wsc-234]_2.png
+2025-04-24 18:12:34,528 - INFO - Test Completed. WebDriver closed.
+2025-04-24 18:12:40,040 - INFO - Test Completed. WebDriver closed.
+2025-04-24 18:17:49,995 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage_1.png
+2025-04-24 18:17:50,298 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage_2.png
+2025-04-24 18:20:00,043 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage_1.png
+2025-04-24 18:20:00,358 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage_2.png
+2025-04-28 18:54:52,303 - WARNING - There was an error managing chromedriver (error decoding response body); using driver found in the cache
+2025-04-28 18:55:52,165 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage_1.png
+2025-04-28 18:55:52,690 - ERROR - Test Failed! Screenshot saved at: Screenshot\test_homepage_2.png
